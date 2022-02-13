@@ -1,0 +1,32 @@
+body{
+  background: #CCD9FF;
+  color: 	#89A8FF;
+  font-family: optima;
+}
+
+label{
+  width: 5%;
+  display: inline-block;
+  text-align: right;
+}
+
+input{
+  background: #cccccc;
+  color: #303030;
+  font-size: 120%;
+  border: 20%;
+
+.Message{
+  color: #a0a0a0;
+}
+
+#Main{
+  background:#CCD9FF;
+  border-radius: 5%;
+  padding-left: 1%;
+}
+
+#Title{
+  font-size: 250%;
+  font-family: optima;
+}
